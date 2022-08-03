@@ -1,0 +1,28 @@
+body
+{
+ background-color: aqua;
+} 
+h1{ 
+    text-align: center; 
+   font-size: 90px;
+}
+
+img
+{
+
+    width: 150px;
+    height:250px;
+    margin:30px auto; 
+    display: block;
+}
+.banner{
+    background-color: blueviolet; 
+    padding: bottom 30px; ;
+} 
+.p{ 
+
+    text-align:center; 
+    color:black; 
+    font-size: 100px;
+    font-weight: 200px;
+}
